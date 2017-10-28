@@ -1,0 +1,27 @@
+.project{
+  margin: 15px 0px;
+  min-height: 280px;
+  border-right: 2px solid #DBDBDB;
+  border-bottom: 2px solid #DBDBDB;
+  border-bottom-right-radius: 10px;
+}
+.ProjectTitle{
+  margin-top: 0px;
+}
+.PojectDesctiption{
+  text-align: justify;
+}
+.ProjectDate{
+  text-align: right;
+  font-style: italic;
+  font-weight: bold;
+}
+.ProjectLink{
+  text-align: right;
+  font-weight: bold;
+}
+.tecnologies{
+  margin: 10px 1px 0px 1px;
+  font-size: 15px;
+  text-align: center;
+}
