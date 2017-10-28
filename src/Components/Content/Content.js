@@ -9,7 +9,6 @@ import './Content.css'
 const Content = () => {
   return (
     <div className='container content'>
-      <h1>My Web Designs</h1>
       <Switch>
         <Route exact path='/' component={ProjectsHome} />
         <Route path='/projects' component={Projects} />

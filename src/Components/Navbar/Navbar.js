@@ -16,7 +16,10 @@ const Navbar = () => {
               <span className='icon-bar'></span>
               <span className='icon-bar'></span>
             </button>
-            <span className='navbar-brand'>OM Web Design</span>
+            <span className='navbar-brand'>
+              <h1 className='title'>OM WEB DESIGN</h1>
+              <img src='https://www.omwdesign.eu/img/omwdesign.eu.png' className='logo' alt='site logo' width='100px;' />
+            </span>
           </div>
           <div className='collapse navbar-collapse' id='bs-example-navbar-collapse-1'>
             <ul className='nav navbar-nav'>
@@ -31,7 +34,7 @@ const Navbar = () => {
                 </Link>
               </li>
               <li className='dropdown'>
-                <a href='#' className='dropdown-toggle' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>My web designs
+                <a className='dropdown-toggle' data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>My web designs
                   <span className='caret'></span>
                 </a>
                 <MenuItem />

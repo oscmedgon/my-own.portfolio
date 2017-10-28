@@ -13,7 +13,7 @@ const Projects = () => {
           <div className='col-sm-6 project' key={i}>
             <div className='row'>
               <div className='col-sm-4 col-md-offset-0 col-xs-8 col-xs-offset-2'>
-                <img src={item.img} className='img-responsive img-rounded' alt='placeholder image' />
+                <img src={item.img} className='img-responsive img-rounded' alt='project' />
               </div>
               <div className='col-sm-8 col-xs-12'>
                 <h3 className='ProjectTitle' ><a href={item.url} target='_BLANK'>{item.name}</a></h3>
@@ -21,8 +21,8 @@ const Projects = () => {
                 <p className='ProjectDate'>{item.date}</p>
               </div>
               <p className='col-xs-12 tecnologies'>
-                {item.languages.map(language => {
-                  return <button type='button' className='btn btn-success tecnologies'>{language}</button>
+                {item.languages.map((language, i) => {
+                  return <span className='label label-info tecnologies' key={i} >{language}</span>
                 })}
               </p>
             </div>

@@ -1,3 +1,9 @@
 .navbar{
   margin-bottom: 0px;
 }
+.title{
+  display: none;
+}
+.logo{
+  margin-top: 0px;
+}

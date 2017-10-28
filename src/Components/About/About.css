@@ -1,0 +1,13 @@
+.AboutContent .sectionTitle{
+  text-align: left;
+}
+.AboutContent{
+  text-align: auto;
+}
+
+.experience div{
+  min-height: 150px;
+  border-right: 2px solid grey;
+  border-bottom: 2px solid grey;
+  border-radius: 10px;
+}
