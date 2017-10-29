@@ -129,7 +129,7 @@
   {
     "name": "WikiPi",
     "description": "This project was my third web project during the second course of sys admin, and originaly hosted on a Raspberry B+ . It has news about raspberry pi some useful info and a register/login method using MySQL and PHP the user must be logged in to download some tutorials on pdf.",
-    "url": "http://www.omwdesign.eu/wikipi",
+    "url": "http://www.omwdesign.eu/wikipi/",
     "img":"https://www.omwdesign.eu/img/wikipi.png",
     "date": "February 2015",
     "languages": [
@@ -142,7 +142,7 @@
   {
   "name": "Incursed Band",
   "description": "This project was my second web project during the second course of sys admin, and originaly hosted on a Raspberry B+. It has some information of a music band and a newsletter form with php and MySQL",
-  "url": "https://www.omwdesign.eu/IncursedBand",
+  "url": "https://www.omwdesign.eu/incursed/",
   "img":"https://www.omwdesign.eu/img/incursed.png",
   "date": "January 2015",
   "languages": [
