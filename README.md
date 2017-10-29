@@ -9,10 +9,12 @@ You are free to share this project or modify it for personal use, follow the ins
 The first strep to use this project it's download it.
 This project uses npm to manage dependencies so you need to install nodejs.
 use your terminal on linux or mac, if you are a windows user you may need cmder or some unux terminal installed, travel to the project folder and use this command:
-```bash npm install
+```bash
+npm install
 ```
 This command install all the project dependencies, once it finish installing you can run the following command to start a live server of react:
-```bash npm start
+```bash
+npm start
 ```
 You are free to modify the page structure or styles, but the most imporrtant it's to modify your information, open the project with your favourite code editor and open the project database located in two json files at **/src/Utils**.
 Once you edit both files with your data go to the browser and see your new and shiny portfolio working.
@@ -20,7 +22,9 @@ Once you edit both files with your data go to the browser and see your new and s
 ## Generating a production build.
 To generate a production build able to upload to your domain you habe to:
 1. Stop the production server with ctrl+c in terminal.
-2. Make sure your developement live serer it's closed and run the following command ```bash npm run build```
+2. Make sure your developement live serer it's closed and run the following command ```bash
+npm run build
+```
 3. Go to /buld folder in bour project and upload it's content tou your server.
 
 ###YOU DID IT
