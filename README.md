@@ -25,7 +25,7 @@ To generate a production build able to upload to your domain you habe to:
 2. Make sure your developement live serer it's closed and run the following command ```npm run build```
 3. Go to /buld folder in bour project and upload it's content tou your server.
 
-###YOU DID IT
+### YOU DID IT
 Now you have an awesome portfolio.
 Stay tuned for more projects or information at my social networks:
 [GitHub](https://github.com/oscmedgon)
