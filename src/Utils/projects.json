@@ -14,6 +14,32 @@
     ]
   },
   {
+    "name": "Git Finder",
+    "description": "This was an exercise to practice react-router and react.",
+    "url": "http://movie_db.surge.sh/",
+    "date": "October 2017",
+    "img":"https://www.omwdesign.eu/img/steam-battle.png",
+    "languages": [
+      "react",
+      "JavaScript",
+      "bootstrap",
+      "axios"
+    ]
+  },
+  {
+    "name": "Git Finder",
+    "description": "This was an exercise to practice react and axios.",
+    "url": "http://gitfinder.surge.sh/",
+    "date": "October 2017",
+    "img":"https://www.omwdesign.eu/img/steam-battle.png",
+    "languages": [
+      "react",
+      "JavaScript",
+      "bootstrap",
+      "axios"
+    ]
+  },
+  {
     "name": "Beer Finder",
     "description": "This was an exercise to practice bootstrap and ajax at Skylab Coders Academy",
     "url": "https://oscmedgon.github.io/beer-finder/",
