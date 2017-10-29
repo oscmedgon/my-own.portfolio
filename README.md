@@ -38,7 +38,7 @@ To generate a production build able to upload to your domain you habe to:
 ### YOU DID IT
 Now you have an awesome portfolio.
 Stay tuned for more projects or information at my social networks:
-[GitHub](https://github.com/oscmedgon)
-[Twitter](https://twitter.com/oscmedgon)
+* [GitHub](https://github.com/oscmedgon)
+* [Twitter](https://twitter.com/oscmedgon)
 You also can follow me on facebook I usualy share some nice struff and huskyes
-[Facebook](https://www.facebook.com/oscmedgon)
+* [Facebook](https://www.facebook.com/oscmedgon)
