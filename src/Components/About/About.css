@@ -7,7 +7,11 @@
 
 .experience div{
   min-height: 150px;
-  border-right: 2px solid grey;
-  border-bottom: 2px solid grey;
+  border-right: 2px solid #5BC0DE;
+  border-bottom: 2px solid #5BC0DE;
   border-radius: 10px;
+}
+
+.experience div ul{
+  padding-top: 10px;
 }

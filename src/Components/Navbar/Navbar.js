@@ -18,7 +18,7 @@ const Navbar = () => {
             </button>
             <span className='navbar-brand'>
               <h1 className='title'>OM WEB DESIGN</h1>
-              <img src='https://www.omwdesign.eu/img/omwdesign.eu.png' className='logo' alt='site logo' width='100px;' />
+              <a href='/'><img src='https://www.omwdesign.eu/img/omwdesign.eu.png' className='logo' alt='site logo' width='100px;' /></a>
             </span>
           </div>
           <div className='collapse navbar-collapse' id='bs-example-navbar-collapse-1'>

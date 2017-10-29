@@ -172,6 +172,8 @@ const About = () => (
               <ProgressBar now={80} label='JavaScript' />
               <ProgressBar now={70} label='JQuery' />
               <ProgressBar now={70} label='ReactJS' />
+              <ProgressBar now={40} label='PHP' />
+              <ProgressBar now={40} label='MySQL' />
             </div>
           </div>
         </div>

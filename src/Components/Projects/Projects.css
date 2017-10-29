@@ -1,8 +1,8 @@
 .project{
   margin: 15px 0px;
   min-height: 280px;
-  border-right: 2px solid #DBDBDB;
-  border-bottom: 2px solid #DBDBDB;
+  border-right: 2px solid #5BC0DE;
+  border-bottom: 2px solid #5BC0DE;
   border-bottom-right-radius: 10px;
 }
 .ProjectTitle{
@@ -15,13 +15,26 @@
   text-align: right;
   font-style: italic;
   font-weight: bold;
+  color: #2B689C;
 }
 .ProjectLink{
   text-align: right;
   font-weight: bold;
 }
 .tecnologies{
-  margin: 10px 1px 0px 1px;
+  margin: 5px 1px 5px 1px;
   font-size: 15px;
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+@media (max-width: 1000px) {
+  .project{
+    min-height: 350px;
+  }
+  .ProjectTitle{
+    margin-top: 10px;
+    text-align: center;
+  }
 }
