@@ -1,0 +1,97 @@
+  {
+    "name": "Óscar Medina Goñi",
+    "profesion": "Web developer",
+    "cityOrigin": "Pamplona (Spain)",
+    "actualCity": "Hospitalet de Llobregat(Spain)",
+    "img":"https://avatars3.githubusercontent.com/u/29759668?s=460&v=4",
+    "description": [
+      "My career in web development started en 2015 during the second course of my professional education in Seville, where I learned xhtml and css.",
+      "Two month later I knew that I wanted to work as web developer at all cost, I studied some new technologies on my own like html5 and css3, but when I did i though, “This it's not good enough.” and I started to study php on my own with some help of my teacher and made two big projects with php.",
+      "Some months later my studies finished and started and got a job in my home town, but not related with web development, I did my best to learn all of this new job but two years later my contract ended and I decided to go back to web development and I went to Barcelona to study a bootcamp at Skylab Coders academy, and here I am, this it's the present studying JavaScript, react and much more, but this it's not the end, it's just the beginning."
+    ],
+    "experience": [
+      {
+        "description": "Fiber Optic Network Operator",
+        "company": "ZENER PLUS SL",
+        "startDate": "September 2015",
+        "endDate": "July 2017",
+        "City": "Pamplona (Spain)"
+      },
+      {
+        "description": "Administrative internship",
+        "company": "SYSTEM FORMACION",
+        "startDate": "March 2015",
+        "endDate": "June 2015",
+        "City": "Seville (Spain)"
+      },
+      {
+        "description": "Grade 3 journeyman",
+        "company": "Volkswagen Navarra",
+        "startDate": "November 2012",
+        "endDate": "January 2013",
+        "City": "Pamplona (Spain)"
+      },
+      {
+        "description": "Grade 3 journeyman",
+        "company": "Volkswagen Navarra",
+        "startDate": "January 2012",
+        "endDate": "February 2012",
+        "City": "Pamplona (Spain)"
+      },
+      {
+        "description": "Grade 3 journeyman",
+        "company": "Volkswagen Navarra",
+        "startDate": "September 2009",
+        "endDate": "September 2011",
+        "City": "Pamplona (Spain)"
+      }
+    ],
+    "education":[
+      {
+        "title": "Full Stack Developer Javascript",
+        "school": "Skylab Coders Academy",
+        "startDate": "September 2017",
+        "endDate": "December 2017",
+        "City": "Barcelona (Spain)",
+        "status": false
+      },
+      {
+        "title": "Medium-Level Sys Admin Degree",
+        "school": "I.E.S Ramón del Valle Inclán",
+        "startDate": "September 2013",
+        "endDate": "March 2015",
+        "City": "Seville (Spain)",
+        "status": true
+      }
+    ],
+    "skills":[
+      {
+        "label": "HTML5/CSS3",
+        "value": 85
+      },
+      {
+        "label": "Bootstrap",
+        "value": 85
+      },
+      {
+        "label": "JavaScript",
+        "value": 80
+      },
+      {
+        "label": "JQuery",
+        "value": 70
+      },
+      {
+        "label": "ReactJS",
+        "value": 70
+      },
+      {
+        "label": "PHP",
+        "value": 40
+      },
+      {
+        "label": "MySQL",
+        "value": 40
+      }
+    ]
+  }

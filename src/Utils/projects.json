@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Steam Battle",
+    "description": "This was my Front End final project at Skylab Coders Academy.",
+    "url": "http://steam_battle.surge.sh/",
+    "date": "October 2017",
+    "img":"https://www.omwdesign.eu/img/steam-battle.png",
+    "languages": [
+      "react",
+      "css3",
+      "JavaScript",
+      "bootstrap",
+      "axios"
+    ]
+  },
+  {
+    "name": "Beer Finder",
+    "description": "This was an exercise to practice bootstrap and ajax at Skylab Coders Academy",
+    "url": "https://oscmedgon.github.io/beer-finder/",
+    "img":"https://www.omwdesign.eu/img/skybeer.png",
+    "date": "October 2017",
+    "languages": [
+      "html5",
+      "css3",
+      "JavaScript",
+      "bootstrap",
+      "ajax"
+    ]
+  },
+  {
+    "name": "Random user carde generator",
+    "description": "This was an exercise to practice ajax and jquery, this exercise was part of the bootcamp Skylab Coders Academy",
+    "url": "https://oscmedgon.github.io/random-cards",
+    "img":"https://www.omwdesign.eu/img/random-card.png",
+    "date": "October 2017",
+    "languages": [
+      "html5",
+      "css3",
+      "javascript",
+      "jquery",
+      "ajax"
+    ]
+  },
+  {
+    "name": "Portfolio project",
+    "description": "This was an exercise to practice bootstrap and scss, this exercise was part of the bootcamp Skylab Coders Academy",
+    "url": "https://oscmedgon.github.io/porfolio-bootstrap/",
+    "img":"https://www.omwdesign.eu/img/portfolio.png",
+    "date": "October 2017",
+    "languages": [
+      "html5",
+      "scss",
+      "Bootstrap"
+    ]
+  },
+  {
+    "name": "Bootstrap & media query project",
+    "description": "This was my first bootstrap and media query project, this exercise was part of the bootcamp Skylab Coders Academy",
+    "url": "https://oscmedgon.github.io/skylab_bootstrap_project/",
+    "img":"https://www.omwdesign.eu/img/gamma.png",
+    "date": "September 2017",
+    "languages": [
+      "html5",
+      "scss",
+      "Bootstrap"
+    ]
+  },
+  {
+    "name": "The Witcher Pasapalabra",
+    "description": "This project was my first html5 with JS at Skylab Coders Academy, its a game where the player must answer some questions about The Witcher world, this project it's optimiced to be used in 1920x1080p resolution",
+    "url": "https://oscmedgon.github.io/pasapalabra_HTML_CSS_JS_oscar/",
+    "img":"https://www.omwdesign.eu/img/pasapalabra.png",
+    "date": "September 2017",
+    "languages": [
+      "html5",
+      "css3",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "Harbingers Of Devastation",
+    "description": "This website its a personal challenge for a small gaming comunity, made with joomla cms, it also has some custom php functions.",
+    "url": "https://www.harbingersofdevastation.com",
+    "img":"https://www.omwdesign.eu/img/hod.png",
+    "date": "November 2016",
+    "languages": [
+      "joomla"
+    ]
+  },
+  {
+    "name": "AD Cerro Del Águila",
+    "description": "Tihis webpage was made for a football club of seville with wordpress cms with custom php functions for leatherboards and weekly results, unfortunetly the webpage it's down because owners closed the domain.",
+    "url": "http://www.adcerrodelaguila.com",
+    "img":"https://www.omwdesign.eu/img/cerro.png",
+    "date": "August 2015",
+    "languages": [
+      "html5",
+      "css",
+      "php",
+      "wordpress"
+    ]
+  },
+  {
+    "name": "WikiPi",
+    "description": "This project was my third web project during the second course of sys admin, and originaly hosted on a Raspberry B+ . It has news about raspberry pi some useful info and a register/login method using MySQL and PHP the user must be logged in to download some tutorials on pdf.",
+    "url": "http://www.omwdesign.eu/wikipi",
+    "img":"https://www.omwdesign.eu/img/wikipi.png",
+    "date": "February 2015",
+    "languages": [
+      "xhtml",
+      "css",
+      "php",
+      "mysql"
+    ]
+  },
+  {
+  "name": "Incursed Band",
+  "description": "This project was my second web project during the second course of sys admin, and originaly hosted on a Raspberry B+. It has some information of a music band and a newsletter form with php and MySQL",
+  "url": "https://www.omwdesign.eu/IncursedBand",
+  "img":"https://www.omwdesign.eu/img/incursed.png",
+  "date": "January 2015",
+  "languages": [
+    "xhtml",
+    "css",
+    "php",
+    "mysql",
+    "JavaScript"
+  ]
+}
+]
