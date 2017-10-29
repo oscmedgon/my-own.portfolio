@@ -22,9 +22,7 @@ Once you edit both files with your data go to the browser and see your new and s
 ## Generating a production build.
 To generate a production build able to upload to your domain you habe to:
 1. Stop the production server with ctrl+c in terminal.
-2. Make sure your developement live serer it's closed and run the following command ```bash
-npm run build
-```
+2. Make sure your developement live serer it's closed and run the following command ```npm run build```
 3. Go to /buld folder in bour project and upload it's content tou your server.
 
 ###YOU DID IT
