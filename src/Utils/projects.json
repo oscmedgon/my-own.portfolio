@@ -1,5 +1,40 @@
 [
   {
+    "name": "Harbingers Of Devastation",
+    "description": "Final project at Skylab Coders Academy, Website blog based to publish news, server side rendering with pug and react administration page.",
+    "url": "https://beta.harbingersofdevastation.com",
+    "date": "December 2017",
+    "img": "https://www.omwdesign.eu/img/todo.png",
+    "languages": [
+      "pug",
+      "css3",
+      "javascript",
+      "react",
+      "passport",
+      "mongodb",
+      "axios",
+      "JQuery",
+      "express",
+      "nodejs"
+    ]
+  },
+  {
+    "name": "Todo app",
+    "description": "Backend aplication ussing sessions, cookies and pug templates. Project made as part of Skylab Coders Academy",
+    "url": "https://todo-app-oscmedgon.herokuapp.com",
+    "date": "November 2017",
+    "img": "https://www.omwdesign.eu/img/todo.png",
+    "languages": [
+      "pug",
+      "css3",
+      "javascript",
+      "JQuery",
+      "bootstrap",
+      "express",
+      "nodejs"
+    ]
+  },
+  {
     "name": "Steam Battle",
     "description": "This was my Front End final project at Skylab Coders Academy.",
     "url": "http://steam_battle.surge.sh/",
@@ -14,11 +49,11 @@
     ]
   },
   {
-    "name": "Git Finder",
+    "name": "Movie Collection",
     "description": "This was an exercise to practice react-router and react.",
     "url": "http://movie_db.surge.sh/",
     "date": "October 2017",
-    "img":"https://www.omwdesign.eu/img/steam-battle.png",
+    "img":"https://www.omwdesign.eu/img/movie.png",
     "languages": [
       "react",
       "JavaScript",
@@ -31,7 +66,7 @@
     "description": "This was an exercise to practice react and axios.",
     "url": "http://gitfinder.surge.sh/",
     "date": "October 2017",
-    "img":"https://www.omwdesign.eu/img/steam-battle.png",
+    "img":"https://www.omwdesign.eu/img/git-finder.png",
     "languages": [
       "react",
       "JavaScript",
