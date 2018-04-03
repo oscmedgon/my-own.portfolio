@@ -2,9 +2,9 @@
   {
     "name": "Harbingers Of Devastation",
     "description": "Final project at Skylab Coders Academy, Website blog based to publish news, server side rendering with pug and react administration page.",
-    "url": "https://beta.harbingersofdevastation.com",
+    "url": "https://www.harbingersofdevastation.com",
     "date": "December 2017",
-    "img": "https://www.omwdesign.eu/img/todo.png",
+    "img": "https://www.omwdesign.eu/img/hod.jpg",
     "languages": [
       "pug",
       "css3",
