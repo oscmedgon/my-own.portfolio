@@ -1,11 +1,11 @@
-import React from 'react'
-import {ProgressBar} from 'react-bootstrap'
+import React from 'react';
+import {ProgressBar} from 'react-bootstrap';
 
-import {PersonalData} from '../../Utils/Utils'
-import './About.css'
+import {PersonalData} from '../../Utils/Utils';
+import './About.css';
 
 const About = () => {
-  const data = PersonalData()
+  const data = PersonalData();
   return (
     <div className='container-fluid'>
       <div className='row'>
@@ -34,7 +34,7 @@ const About = () => {
               About me
             </h3>
             {data.description.map((description, i) => {
-              return (<p key={i}>{description}<br /></p>)
+              return (<p key={i}>{description}<br /></p>);
             })}
           </div>
         </div>
@@ -53,15 +53,21 @@ const About = () => {
                     <li>
                       <strong>Company name: </strong>{job.company}
                     </li>
+                    { job.endDate &&
                     <li>
                       <strong>From </strong>{job.startDate}<strong> to </strong>{job.endDate}
                     </li>
+                    ||
+                    <li>
+                      <strong>Started </strong>{job.startDate}
+                    </li>
+                    }
                     <li>
                       <strong>City: </strong>{job.City}
                     </li>
                   </ul>
                 </div>
-              )
+              );
             })}
           </div>
           <div className='row'>
@@ -88,7 +94,7 @@ const About = () => {
                       </li>
                     </ul>
                   </div>
-                )
+                );
               })}
             </div>
             <div className='col-md-6'>
@@ -97,7 +103,7 @@ const About = () => {
                 {data.skills.map((skill, i) => {
                   return (
                     <ProgressBar key={i} now={skill.value} label={skill.label} />
-                  )
+                  );
                 })}
               </div>
             </div>
@@ -105,7 +111,7 @@ const About = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default About
+export default About;

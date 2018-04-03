@@ -11,6 +11,13 @@
     ],
     "experience": [
       {
+        "description": "Front-End Developer",
+        "company": "FLUTTR",
+        "startDate": "February 2018",
+        "endDate": null,
+        "City": "Barcelona (Spain)"
+      },
+      {
         "description": "Fiber Optic Network Operator",
         "company": "ZENER PLUS SL",
         "startDate": "September 2015",
